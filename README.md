@@ -14,7 +14,7 @@ Here's what it does:
 
 6. Creates/updates a file called file.txt containing extracted data (Reporting period, Report Date, Production figures, Stock on hand figures, Calculated sales for current month (derived from production and stock values))
 
-Input example: https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Input%20example.pdf
+[Input example](https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Input%20example.pdf)
 
-Output example: https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Output%20example.txt
+[Output exampl](https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Output%20example.txt)
 

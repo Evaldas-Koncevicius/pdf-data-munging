@@ -14,7 +14,3 @@ Here's what it does:
 
 6. Creates/updates a file called file.txt containing extracted data (Reporting period, Report Date, Production figures, Stock on hand figures, Calculated sales for current month (derived from production and stock values))
 
-
-Such a script would be valuable for automating the extraction of key metrics from standardized production/inventory reports, saving manual data entry time and reducing errors. The output provides a consolidated view of critical business metrics across multiple reports.
-
-The code demonstrates file handling, text processing, and data science skills.

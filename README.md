@@ -16,5 +16,5 @@ Here's what it does:
 
 [Input example](https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Input%20example.pdf)
 
-[Output exampl](https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Output%20example.txt)
+[Output example](https://github.com/Evaldas-Koncevicius/pdf-data-munging/blob/main/Output%20example.txt)
 
